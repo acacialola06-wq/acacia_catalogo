@@ -1,0 +1,65 @@
+
+
+
+[
+  {
+    "id": 1,
+    "name": "Protetor Solar Miss Vanessa FPS 50",
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "name": "Máscara Facial Gold 7 em 1",
+    "price": 4000
+  },
+  {
+    "id": 3,
+    "name": "Máscara Preta de Abacate Peel Off",
+    "price": 3800
+  },
+  {
+    "id": 4,
+    "name": "Gel Esfoliante Ushas",
+    "price": 5500
+  },
+  {
+    "id": 5,
+    "name": "Sérum de Colagénio",
+    "price": 3100
+  },
+  {
+    "id": 6,
+    "name": "Sérum Vitamina C Cool Day’s",
+    "price": 2500
+  },
+  {
+    "id": 7,
+    "name": "Sérum Facial Aloe Vera 99%",
+    "price": 3000
+  },
+  {
+    "id": 8,
+    "name": "Shampoo Baby",
+    "price": 500
+  },
+  {
+    "id": 9,
+    "name": "Gentle Magic",
+    "price": 1500
+  },
+  {
+    "id": 10,
+    "name": "Roll-On Invisível Clicks",
+    "price": 1500
+  },
+  {
+    "id": 11,
+    "name": "Meias Longas",
+    "price": 2500
+  },
+  {
+    "id": 12,
+    "name": "Acessório de Cabeça Multifuncional",
+    "price": 600
+  }
+]
